@@ -1,0 +1,8 @@
+.classification {
+  color: #2ab665;
+  background-color: rgba(46,204,113, .7);
+  border: 1px solid #eee;
+  border-radius: 10%;
+  padding: 4px 4px;
+  margin-right: 5px;
+}
